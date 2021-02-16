@@ -1,4 +1,5 @@
-## Best Practices (required reading)
+## Required reading
+### Best Practices:
 * [Terraform](https://www.terraform.io/docs/cloud/guides/recommended-practices/index.html)
 * [Ansible](https://docs.ansible.com/ansible/2.3/playbooks_best_practices.html)
 * [Docker](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
